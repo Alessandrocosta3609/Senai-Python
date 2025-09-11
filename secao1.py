@@ -34,3 +34,16 @@ print('Greg\'s book.')
 print("'Greg's book.'")
 print('"Greg\'s book."')
 print("Greg\'s book.")
+#print('"Greg's book. "') Essa aqui esta com erro....
+# No python podemos usar aspas duplas e aspas simples 
+
+print('Hoje esta um dia bonito')
+print("Hoje esta um dia bonito")
+
+# Forma incorreta
+#print('Me ve um copo d'agua')
+
+# Forma correta 
+print('Me ve um copo d\´agua')
+
+
