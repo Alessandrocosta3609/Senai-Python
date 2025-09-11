@@ -23,3 +23,14 @@ print("Eu", "estudo" , "no" , "Senai" , sep="-")
 print("Programacao", "essencial", "em...", sep="******", end="...")
 print("Python" )
 
+
+
+# exercicios Propostos na Seção 2.1.15
+print("Eu estudo no SENAI\nProgramação\nEssencial\nem\nPython")
+print("Meu\nnome\né\nBond.", end=" ")
+print("James Bond.")
+ 
+print('Greg\'s book.')
+print("'Greg's book.'")
+print('"Greg\'s book."')
+print("Greg\'s book.")
