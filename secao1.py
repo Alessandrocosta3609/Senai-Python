@@ -46,4 +46,6 @@ print("Hoje esta um dia bonito")
 # Forma correta 
 print('Me ve um copo d\´agua')
 
+print("Alessandro","Costa","Ferreira", sep="&")
+
 
