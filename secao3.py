@@ -57,3 +57,10 @@ print(3 + 6 * 2 ** 2 - 1 + 2) # Resultado 28
 print(3 + 6 * 4 - 1 + 2) # Resultado 28
 print(3 + 24 - 1 + 2) # Resultado 28
 
+
+print((5*((25 % 13) + 100) / (2 * 13)) // 2) # Resultado .
+
+print(5*(112)/(26)//2) # Resumo do Calculo anterior .     
+
+print(3*(2,4,6)) # Isso é uma tupla , não é uma lista
+print(3*[2,4,6]) # Isso é uma lista , não é uma tupla
