@@ -13,3 +13,9 @@ print(6/2) # Divisão
 print(7/2) # Divisão com resultado float
 print(7/2.0) # Divisão com float    
 print(7/2.0) # Divisão com float    
+
+
+print(2**2) # Potenciação
+print(2**3) # Potenciação
+print(2**0.5) # Potenciação com float
+print(9**0.5) # Potenciação com float
