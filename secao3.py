@@ -10,3 +10,6 @@ print(3*5.0) # Multiplicação com float
 print(2*-3) # Multiplicação com número negativo
 
 print(6/2) # Divisão
+print(7/2) # Divisão com resultado float
+print(7/2.0) # Divisão com float    
+print(7/2.0) # Divisão com float    
