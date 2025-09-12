@@ -8,3 +8,5 @@ print(.1-0.10) # Subtração com float
 print(3*5) # Multiplicação
 print(3*5.0) # Multiplicação com float
 print(2*-3) # Multiplicação com número negativo
+
+print(6/2) # Divisão
