@@ -51,6 +51,8 @@ a = "1"
 b = "2"
 print (a + b)  # Concatenação
 
+# Outra forma de quebrar linha
+print("""Alessandro
+Costa
+Ferreira """)  # Quebra de linha
 
-
- 
