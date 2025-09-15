@@ -44,3 +44,6 @@ total = (j+m+a)
 
 print( " Joao tem ", j ,"macas \n","Maria tem " , m ,"macas\n" , "Ana tem ",a ,"macas\n")
 print ( " Ao todo sao", total , "macas")
+
+# Fim do exercicio
+
