@@ -12,12 +12,3 @@ print(peso)
 
 
 print ("Meu Nome é ",Nome,"tenho",Idade,"anos, minha altura é",Altura,"e meu peso é",peso ,"kg")
-
-cont = 1
-print (cont)
-cont = cont + 1
-print (cont)
-cont += 1       
-print (cont)
-cont -= 1
-print (cont)
