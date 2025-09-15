@@ -47,3 +47,8 @@ print ( " Ao todo sao", total , "macas")
 
 # Fim do exercicio
 
+a = "1"
+b = "2"
+print (a + b)  # Concatenação
+
+
