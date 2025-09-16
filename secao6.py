@@ -50,3 +50,7 @@ cat2 = float(input("Digite o valor do Cateto 2 : "))
 hip = (cat1 ** 2 + cat2 ** 2) ** 0.5
 print ("O valor da Hipotenusa é : ", round (hip,2) ) """   
 # Fim do exercicio
+
+"""nome = input ("Digite seu nome : ")
+sobrenome = input ("Digite seu sobrenome : ")
+print("Olá", nome, sobrenome)"""
