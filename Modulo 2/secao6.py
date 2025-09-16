@@ -54,3 +54,4 @@ print ("O valor da Hipotenusa é : ", round (hip,2) ) """
 """nome = input ("Digite seu nome : ")
 sobrenome = input ("Digite seu sobrenome : ")
 print("Olá", nome, sobrenome)"""
+
