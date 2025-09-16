@@ -32,7 +32,7 @@ n2 = float(input("Digite a note de Portugues : "))
 soma= n1 + n2
 print ("A soma das notas é : ",soma)"""
 
-n1 = int(input("Digite um numero para ver sua Tabuada :  "))
+"""n1 = int(input("Digite um numero para ver sua Tabuada :  "))
 print (n1,"x 1 =", n1*1)
 print (n1,"x 2 =", n1*2)        
 print (n1,"x 3 =", n1*3)
@@ -42,6 +42,11 @@ print (n1,"x 6 =", n1*6)
 print (n1,"x 7 =", n1*7)
 print (n1,"x 8 =", n1*8)
 print (n1,"x 9 =", n1*9)    
-print (n1,"x 10 =", n1*10)
+print (n1,"x 10 =", n1*10)"""
 # Fim do exercicio
 
+"""cat1 = float(input("Digite o valor do Cateto 1 : "))
+cat2 = float(input("Digite o valor do Cateto 2 : ")) 
+hip = (cat1 ** 2 + cat2 ** 2) ** 0.5
+print ("O valor da Hipotenusa é : ", round (hip,2) ) """   
+# Fim do exercicio
