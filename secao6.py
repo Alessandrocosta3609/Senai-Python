@@ -19,10 +19,29 @@ print (nome, "\nVocê tem", idade ,"anos" "\nE pesa", peso ,"kg)"""
 
 # Forçar os tipos de variaveis
 
-nome = input ("Digite seu nome : ")
+"""nome = input ("Digite seu nome : ")
 idade = int(input ("Qual a sua idade ?  : "))
 peso = float(input ( "Qual o seu peso ?  : "))
 print("Olá", nome)
 print ("Legal",nome,"muito prazer em te conhecer !")
-print (nome, "\nVocê tem", idade ,"anos" "\nE pesa", peso ,"kg")
+print (nome, "\nVocê tem", idade ,"anos" "\nE pesa", peso ,"kg")"""
+# Fim do exercicio
+
+"""n1 = float(input("Digite a note de Matematica : "))
+n2 = float(input("Digite a note de Portugues : "))
+soma= n1 + n2
+print ("A soma das notas é : ",soma)"""
+
+n1 = int(input("Digite um numero para ver sua Tabuada :  "))
+print (n1,"x 1 =", n1*1)
+print (n1,"x 2 =", n1*2)        
+print (n1,"x 3 =", n1*3)
+print (n1,"x 4 =", n1*4)
+print (n1,"x 5 =", n1*5)        
+print (n1,"x 6 =", n1*6)
+print (n1,"x 7 =", n1*7)
+print (n1,"x 8 =", n1*8)
+print (n1,"x 9 =", n1*9)    
+print (n1,"x 10 =", n1*10)
+# Fim do exercicio
 
