@@ -12,3 +12,6 @@ print(2 <= 1) # 2 é menor ou igual a 1 ? False
 print('a' == 'b') # 'a' é igual a 'b' ? False
 print('a' != 'b') # 'a' é diferente de 'b' ? True
 
+#exercicio de comparação
+n = int(input("Digite um valor : "))
+print(n >= 100)
