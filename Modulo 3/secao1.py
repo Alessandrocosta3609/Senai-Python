@@ -3,15 +3,56 @@
 # Se quiser comparar 2 valores , o simbolo de igualdade no python é ==
 # se quiser compara diferenças , o simbolo de diferente é  !=
 
-print(1 !=0) # 1 é diferente de zero ? True
+"""print(1 !=0) # 1 é diferente de zero ? True
 print(1 == 0)# 1 é igual a zero ? True
 print(2 > 1) # 2 é maior que 1 ? True
 print(2 < 1) # 2 é menor que 1 ? False
 print(2 >= 1) # 2 é maior ou igual a 1 ? True
 print(2 <= 1) # 2 é menor ou igual a 1 ? False
 print('a' == 'b') # 'a' é igual a 'b' ? False
-print('a' != 'b') # 'a' é diferente de 'b' ? True
+print('a' != 'b') # 'a' é diferente de 'b' ? True"""
 
 #exercicio de comparação
-n = int(input("Digite um valor : "))
-print(n >= 100)
+#n = int(input("Digite um valor : "))
+#print(n >= 100)
+
+"""x = 3
+y = 5
+z = 10
+print(x < y)
+print(x + 7 != z)"""
+
+#podemos criar variaveis desta maneira tambem ,
+"""x,y,z = 3,5,10
+print(x < y)    """
+
+# Trabalhando com Condicionais
+# if = se
+# else = senão      
+# elif = senão se
+
+# n = int(input("Digite um valor : "))
+# if n > 0:
+#     print(n,    " é maior que zero")
+# elif n == 0:
+#     print(n, " é igual a zero") 
+# else:
+#     print(n, " é menor que zero")
+# Fim do exercicio
+
+# n = int(input("Digite um valor : "))
+# if n > 0:
+#     print(n,    " é igual a zero")
+
+# else:
+#     print(n, " é menor que zero")  
+
+# Fim do exercicio  
+
+# nota1 = float(input("Digite a nota 1 : "))
+# nota2 = float(input("Digite a nota 2 : "))  
+# media = (nota1 + nota2) / 2
+# if media >= 7.5:
+#     print("Aprovado com média ", media)
+# else:
+#     print("Reprovado com média ", media)
