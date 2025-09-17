@@ -56,3 +56,16 @@ print(x < y)    """
 #     print("Aprovado com média ", media)
 # else:
 #     print("Reprovado com média ", media)
+
+# idade = int(input("Digite sua idade : "))
+# if idade < 12:
+#     print("Criança")
+# elif idade <18:
+#     print("Adolescente")
+# elif idade < 60:
+#     print("Adulto")
+# else:
+#     print("Idoso")
+
+# Usamos o elif para que uma condição por exemplo criança não seja classificada como adolescente ou adulto
+# Fim do exercicio
