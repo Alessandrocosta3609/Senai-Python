@@ -69,3 +69,4 @@ print(x < y)    """
 
 # Usamos o elif para que uma condição por exemplo criança não seja classificada como adolescente ou adulto
 # Fim do exercicio
+
