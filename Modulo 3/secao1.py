@@ -70,3 +70,11 @@ print(x < y)    """
 # Usamos o elif para que uma condição por exemplo criança não seja classificada como adolescente ou adulto
 # Fim do exercicio
 
+# n1 = int(input("Digite um Número : "))
+# n2 = int(input("Digite outro Número : "))
+# if n1 > n2:
+#     print(n1, " é maior que ", n2)
+# elif n1 < n2:
+#     print(n2, " é maior que ", n1)      
+# else:
+#     print("Os números são iguais")
