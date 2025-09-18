@@ -48,3 +48,20 @@
 # for i in range(1,6):
 #     print(f'{i} Mississipi')
 # print("Pronto ou não , aqui vou eu !")
+
+
+# while True:
+#     cmd = input("Digite \*sair\* para sair : ")
+#     if cmd == "sair":
+#         print("Saindo...")
+#         break
+
+# for n in range(6):
+#     if n == 3:
+#         print("Era pra ser o numero 3 aqui , mas o sistema pulou ele")
+#         continue
+#     print(n)    
+
+# nome = input("Digite Qualquer Coisa")
+# for letra in nome:
+#     print(letra)
