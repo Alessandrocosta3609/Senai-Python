@@ -44,3 +44,7 @@
 # valor = int(input("Digite a Tabuada : "))
 # for i in range(1,11):
 #     print(f"{valor} x {i} = {valor * i}")
+
+# for i in range(1,6):
+#     print(f'{i} Mississipi')
+# print("Pronto ou não , aqui vou eu !")
