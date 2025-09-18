@@ -22,3 +22,12 @@
 # print("A soma dos valores é : ", soma)
 # Exemplo de Loop com soma de valores
 
+
+# numero = int(input("Digite um número : "))
+# while numero % 7!= 0:
+#        numero += 1
+# #print("O próximo múltiplo de 7 é : ", numero)
+
+# print(f"O próximo múltiplo de 7 é : {numero}")
+
+

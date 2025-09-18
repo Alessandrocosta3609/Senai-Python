@@ -78,3 +78,10 @@ print(x < y)    """
 #     print(n2, " é maior que ", n1)      
 # else:
 #     print("Os números são iguais")
+
+# valor = int(input("Digite um valor : "))
+# if valor % 2 == 0:
+#     print(valor, " é par")
+# else:
+#     print(valor, " é impar")
+# Exemplo de verificação de par ou impar
