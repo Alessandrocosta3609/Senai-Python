@@ -31,3 +31,16 @@
 # print(f"O próximo múltiplo de 7 é : {numero}")
 
 
+# i = 1
+# for i in range(2,9):
+#     i +=1
+#     print(i)
+# # Exemplo de Loop com for
+
+# for i in range (10 ,-11,-1):
+#     print(i)
+# # Exemplo de Loop com for e passo de 2 em 2
+
+# valor = int(input("Digite a Tabuada : "))
+# for i in range(1,11):
+#     print(f"{valor} x {i} = {valor * i}")
