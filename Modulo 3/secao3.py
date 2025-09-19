@@ -32,10 +32,11 @@
 # Resultado = 1
 
 
-a =5
-b =3
-print(a & b) #1   -> 0001
-print(a | b) #7   -> 0111
-print(a ^ b) #6   -> 0110
-print ( ~(a & b)) #-2  -> 0010
+# a =5
+# b =3
+# print(a & b) #1   -> 0001
+# print(a | b) #7   -> 0111
+# print(a ^ b) #6   -> 0110
+# print ( ~(a & b)) #-2  -> 0010
+
 
