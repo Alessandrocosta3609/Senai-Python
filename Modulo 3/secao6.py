@@ -26,3 +26,10 @@
 # print(novalista)
 
 # O fatiamento nesse caso , percorre o elemento 1 ao  4 , menos 1 (posição 3 na vdd)
+
+
+# Procurar elementos numa lista 
+
+# lista =[10,8,6,4,2]
+# print( 3 in lista) # False
+# print( 3 not in lista) # True
