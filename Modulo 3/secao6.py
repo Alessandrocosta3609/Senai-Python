@@ -33,3 +33,21 @@
 # lista =[10,8,6,4,2]
 # print( 3 in lista) # False
 # print( 3 not in lista) # True
+
+# lista = [10,3,45,78,1,0,4,12]
+# var = lista[0]
+# for i in lista :
+#     if i < var :
+#         var = i
+# print(var) ****Para descobrir o numero maior de uma sequancia ******
+
+
+# lista = [1,2,3,4,1,2,3,4,1,2,3,4]
+# novaLista = []
+# for i in lista :
+#     if i not in novaLista :
+#         novaLista.append(i)
+# print(novaLista)
+
+# ************ Para Fazer uma Contagem Distinta dentro de uma Lista ************
+
